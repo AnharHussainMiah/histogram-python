@@ -1,3 +1,7 @@
+#Name:      histogram-python
+#Author:    Ethan Dunford
+#Email:     ethan@ethandunford.com
+#Version:   1.0
 #histogram
 # take list
 #output the count of how many times a item appears.
